@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=LALO Early Development Access (64-bit)
+Comment=LALO Early Development Access edition
+Exec=/usr/share/lalo-eda/lalo.x86_64
+Terminal=false
+Icon=/usr/share/lalo-eda/icon.png
+Categories=Game

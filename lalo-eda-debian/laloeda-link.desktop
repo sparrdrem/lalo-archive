@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Link
+Name=LALO Early Development Access Video
+Comment=LALO EDA Video
+URL=https://www.youtube.com/watch?v=wJzB7wUDs4U
+Icon=/usr/share/lalo-eda/icon.png
+Categories=Network
