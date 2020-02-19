@@ -1,0 +1,15 @@
+Source: lalo-eda
+Section: games
+Priority: optional
+Maintainer: sparrdrem <samyoethe2@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://sparrdrem.itch.io/laloeda-0002
+#Vcs-Git: git://anonscm.debian.org/collab-maint/lalo-eda.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/lalo-eda.git
+
+Package: lalo-eda
+Architecture: all
+Depends: ${misc:Depends}
+Description: LALO Early Development Access 0.0.0.2
+ LALO Early Development Access v0.0.0.2 Bulletin Information

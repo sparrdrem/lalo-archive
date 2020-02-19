@@ -1,0 +1,7 @@
+icon.png usr/share/lalo-eda/
+lalo.x86 usr/share/lalo-eda/
+lalo.x86_64 usr/share/lalo-eda/
+laloeda.desktop usr/share/applications/
+laloeda64.desktop usr/share/applications/
+laloeda-link.desktop usr/share/applications/
+lalo_Data/* usr/share/lalo-eda/lalo_Data/
