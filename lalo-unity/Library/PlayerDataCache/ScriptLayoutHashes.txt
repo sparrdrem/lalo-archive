@@ -1,6 +1,6 @@
 WebGL
 PlayerPath?
-C:/Users/Joe/Desktop/laloeda/lalo-html5
+C:/Users/user/Desktop/laloeda/lalo-html5
 SceneListBegin?
 Assets/Scenes/test_map.unity
 SceneListEnd?
