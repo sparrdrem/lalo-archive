@@ -5,6 +5,17 @@ Archive of the source code and packages of LALO
 
 We recommend using `Unity3d 2018.1.3f1` to build LALO, and use git to download the repository. Add the folder `lalo-unity` to your Unity Projects folder and select it. When Unity3d launches go to File -> Compile Options and build for Windows/MacOS/Linux (other projects may require extra projects.
 
+### Downloading using Git
+
+To download using git simply use the following command:
+```
+git clone https://github.com/sparrdrem/lalo-archive.git
+```
+
+### Downloading using Github Desktop Client
+
+To download using Github Desktop Client you will need to fork the project to your profile and clone the repository to local disk.
+
 ## Downloads
 
 | Platform | Installer | Bin Download |
